@@ -23,7 +23,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="80" height="80"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="80" height="80"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" title="jest" alt="jest" width="80" height="80"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original-wordmark.svg" title="godot" alt="godot" width="80" height="80"/>&nbsp;
 </div>
 <br />
 <br />
