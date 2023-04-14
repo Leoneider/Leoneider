@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @Leoneider
+<div align="center">
+<h1>👋 Hi, I’m @Leoneider</h1>
+</div>
 - 👀 I’m interested in javascript, node, design patterns.
 - 🌱 I’m currently learning clean architecture.
 - 💞️ I’m looking to collaborate on Siigo.
