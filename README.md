@@ -23,7 +23,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="80" height="80"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" title="tailwindcss" alt="tailwindcss" width="80" height="80"/>&nbsp;
 </br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="80" height="80"/>&nbsp;
+<img src="https://raw.githubusercontent.com/Leoneider/Leoneider/main/cs.svg" title="NodeJS" alt="NodeJS" width="80" height="80"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="80" height="80"/>&nbsp;
 <img src="https://raw.githubusercontent.com/Leoneider/Leoneider/main/Angular_full_color_logo.svg" title="mongodb"  alt="mongodb" width="80" height="80"/>&nbsp;
