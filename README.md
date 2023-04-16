@@ -16,17 +16,17 @@
 ### 🛠 &nbsp;Languages and Tools :
 
 <div>
+<img src="https://raw.githubusercontent.com/Leoneider/Leoneider/main/Angular_full_color_logo.svg" title="mongodb"  alt="mongodb" width="80" height="80"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="80" height="80"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="80" height="80"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="80" height="80"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" title="nextjs" alt="nextjs" width="80" height="80"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="80" height="80"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" title="tailwindcss" alt="tailwindcss" width="80" height="80"/>&nbsp;
 </br>
 <img src="https://raw.githubusercontent.com/Leoneider/Leoneider/main/cs.svg" title="NodeJS" alt="NodeJS" width="80" height="80"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="80" height="80"/>&nbsp;
-<img src="https://raw.githubusercontent.com/Leoneider/Leoneider/main/Angular_full_color_logo.svg" title="mongodb"  alt="mongodb" width="80" height="80"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="80" height="80"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="80" height="80"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" title="jest" alt="jest" width="80" height="80"/>&nbsp;
 </div>
