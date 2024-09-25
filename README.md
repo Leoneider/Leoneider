@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in javascript, node, design patterns.
 - 🌱 I’m currently learning clean architecture.
-- 💞️ I’m looking to collaborate on Siigo.
+- 💞️ I’m looking to collaborate on Cognits.
 - 📫 How to reach me leoneider42@gmail.com
 
 <div>
